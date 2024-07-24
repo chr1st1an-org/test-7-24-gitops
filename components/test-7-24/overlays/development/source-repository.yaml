@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: test-7-24-repository
+spec:
+  url: https://github.com/chr1st1an-org/test-7-24
